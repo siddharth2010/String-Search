@@ -49,3 +49,9 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+# macOS
+.DS_STORE
+
+# vscode Editor
+.vscode
