@@ -1,9 +1,3 @@
-'''
-Author: Arden Dertat
-Contact: ardendertat@gmail.com
-License: MIT License
-'''
-
 #!/usr/bin/env python
 
 import sys
